@@ -46,7 +46,7 @@ std::string pad_hash(const std::string& hash_code) {
 }
 
 int main() {
-    std::ifstream file("Path to you json file");
+    std::ifstream file("Path to your json file");
     if (!file.is_open()) {
         std::cerr << "Failed to open file\n";
         return 1;
