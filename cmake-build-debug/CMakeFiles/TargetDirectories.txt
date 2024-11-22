@@ -1,0 +1,3 @@
+/Users/youssefbelahmar/CLionProjects/YFhh/cmake-build-debug/CMakeFiles/YFhh.dir
+/Users/youssefbelahmar/CLionProjects/YFhh/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/youssefbelahmar/CLionProjects/YFhh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
